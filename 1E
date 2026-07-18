@@ -2345,7 +2345,7 @@ let autoSaveIndicator = null;
 let powerLossRecoveryData = null;
 let resumeInProgress = false;
 let secretPasswordBuffer = '';        // ADD THIS
-const SECRET_PASSWORD = 'saidell';     // ADD THIS
+const SECRET_PASSWORD = 'ssrell';     // ADD THIS
 let secretUnlocked = false;           // ADD THIS
 
 let autoClickInterval = null;
